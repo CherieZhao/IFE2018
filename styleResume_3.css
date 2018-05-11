@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+	word-break: break-all;
+}
+
+html, body {
+	height: 100%;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h1 {
+	height: 70px;
+	width: 100%;
+	margin: 0;
+	padding: 10px;
+	text-align: left;
+	line-height: 60px;
+	background-color: gray;
+	color: white;
+}
+
+h2 {
+	height: 150px;
+	width: 15%;
+	margin: 0;
+	padding: 0;
+	line-height: 150px;
+	text-align: center;
+	background-color: #C0C0C0;
+	border: 0.5px solid white;
+	float: left;
+}
+
+.part {
+	height: 150px;
+	width: 84.5%;
+	margin: 0;
+	padding: 10px;
+	border: 0.5px solid #C0C0C0;
+	float: right;
+}
